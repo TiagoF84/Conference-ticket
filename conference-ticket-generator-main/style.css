@@ -1,0 +1,6 @@
+body{
+    content: '';
+    background-image: url("./assets/images/background-desktop.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
