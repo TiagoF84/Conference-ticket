@@ -3,4 +3,13 @@ body{
     background-image: url("./assets/images/background-desktop.png");
     background-repeat: no-repeat;
     background-size: cover;
+
+}
+
+.img-ticket{
+    float: right;
+    
+    
+    margin-top: 100px;
+    
 }
